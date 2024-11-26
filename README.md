@@ -4,7 +4,6 @@ Bem-vindo ao meu perfil no GitHub!
 
 Sou apaixonada por **segurança da informação** e, atualmente, estou focada no **desenvolvimento e integrações de APIs seguras**. Com experiência em suporte e analise de integrações meu objetivo é construir soluções que unam **segurança e eficiência**, criando sistemas e aplicações mais robustos e confiáveis.
 
-![Meu Avatar](https://www.example.com/avatar.jpg)
 
 ## 🚀 O que estou aprendendo:
 - **Desenvolvimento de APIs seguras** utilizando as melhores práticas de segurança
