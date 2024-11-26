@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 I am passionate about **information security** and, currently, I am focused on **secure API development and integrations**. With experience in support, infrastructure, and integration analysis, my goal is to build solutions that combine **security and efficiency**, creating more robust and reliable systems and applications.
 
 ## 🎓 Education:
-- **Bachelor's degree** in **System Analysis & Development**
+- **Associate's Degree** in **System Analysis & Development**
 - **Specialization** in **Forensic Computing**
 
 ## 🚀 What I'm Learning:
