@@ -9,9 +9,8 @@ Sou apaixonada por **segurança da informação** e, atualmente, estou focada no
 - **Desenvolvimento de APIs seguras** utilizando as melhores práticas de segurança
 - **Autenticação** e **autorização** em APIs (OAuth, JWT)
 - **Proteção contra vulnerabilidades comuns** (SQL Injection, XSS, CSRF)
-- **Automação de testes de segurança** para APIs
+- **Automação de testes de segurança** para APIs utilizando ferramentas como **Postman**, **Insomnia** e **Burp Suite**
 - **Automação de processos com Bash e Python**
-- **Testes de APIs** utilizando ferramentas como **Postman** e **Insomnia**
 
 
 ## 🖥️ Linguagens que mais uso
