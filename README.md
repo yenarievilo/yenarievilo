@@ -11,6 +11,8 @@ Sou apaixonada por **segurança da informação** e, atualmente, estou focada no
 - **Proteção contra vulnerabilidades comuns** (SQL Injection, XSS, CSRF)
 - **Automação de testes de segurança** para APIs
 - **Automação de processos com Bash e Python**
+- **Testes de APIs** utilizando ferramentas como **Postman** e **Insomnia**
+
 
 ## 🖥️ Linguagens que mais uso
 
