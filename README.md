@@ -1,4 +1,4 @@
-# Hello, I'm Jen Oliveira!
+# Hello, I'm Jeniffer Oliveira!
 
 🔍 **QA Analyst | API Tester | Cybersecurity Enthusiast**
 
