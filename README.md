@@ -1,22 +1,37 @@
 # Hello, I'm Jen Oliveira!
 
-Welcome to my GitHub profile!
+🔍 **QA Analyst | API Tester | Cybersecurity Enthusiast**
 
-I am passionate about **information security** and, currently, I am focused on **secure API development and integrations**. With experience in support, infrastructure, and integration analysis, my goal is to build solutions that combine **security and efficiency**, creating more robust and reliable systems and applications.
+Welcome to my GitHub profile!  
+I am passionate about **information security**, **quality assurance**, and **API testing**. With experience in **support**, **infrastructure**, and **integration analysis**, my goal is to develop and validate solutions that are not only functional but also **secure**, **reliable**, and **robust**.
 
-## 🎓 Education:
-- **Associate's Degree** in **System Analysis & Development**
-- **Specialization** in **Forensic Computing**
+---
 
-## 🚀 What I'm Learning:
-- **Secure API development** using best security practices
-- **Authentication** and **authorization** in APIs (OAuth, JWT)
-- **Protection against common vulnerabilities** (SQL Injection, XSS, CSRF)
-- **Automation of security tests** for APIs using tools like **Postman**, **Insomnia**, and **Burp Suite**
-- **Process automation with Bash and Python**
+## 🎓 Education
+-  **Associate's Degree** in **System Analysis & Development**
+-  **Specialization** in **Forensic Computing**
 
-## 🛠️ Skills in Forensics:
-- Proficient in using forensic tools such as **Autopsy**, **Volatility**, **FTK Imager**, **IPED**, and **Wireshark** for detailed analysis and investigations.
+---
+
+## 🚀 What I'm Learning
+-  **Secure API testing** following best security and quality practices
+-  **Authentication & Authorization** in APIs (OAuth, JWT)
+-  **Protection against vulnerabilities** (SQL Injection, XSS, CSRF, etc.)
+-  **API functional and security testing automation** using:
+  - **Postman**, **Insomnia**, **Newman**, **Burp Suite**, **OWASP ZAP**
+- **Process automation** with **Bash** and **Python**
+
+---
+
+## 🛠️ Skills
+### 🔍 **Forensics & Investigation**
+- Tools: **Autopsy**, **Volatility**, **FTK Imager**, **IPED**, **Wireshark**
+
+### 🧪 **Quality Assurance & Security Testing**
+- ✅ API Testing (Functional + Security)
+- 🔧 Tools: **Postman**, **Insomnia**, **Newman**, **Burp Suite**, **OWASP ZAP**
+- 🛠️ Automation: **Bash**, **Python**, API scripting
+- 📜 Security Practices: **OWASP Top 10**, **JWT Security**, **OAuth2**, **API Hardening**
 
 ## 🖥️ Languages I Use the Most
 
