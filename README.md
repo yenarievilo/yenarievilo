@@ -2,7 +2,6 @@
 
 🔍 **QA Analyst | API Tester | Cybersecurity Enthusiast**
 
-Welcome to my GitHub profile!  
 I am passionate about **information security**, **quality assurance**, and **API testing**. I have **5 years of experience in support**, as well as experience in **infrastructure** and **integration analysis**, I am a naturally curious person, always looking to learn new technologies, improve my skills, and share knowledge.
 
 
@@ -25,9 +24,6 @@ I am passionate about **information security**, **quality assurance**, and **API
 ---
 
 ## 🛠️ Skills
-### 🔍 **Forensics & Investigation**
-- Tools: **Autopsy**, **Volatility**, **FTK Imager**, **IPED**, **Wireshark**
-
 ### 🧪 **Quality Assurance & Security Testing**
 - API Testing (Functional + Security)
 - Tools: **Postman**, **Insomnia**, **Newman**, **Burp Suite**, **OWASP ZAP**
