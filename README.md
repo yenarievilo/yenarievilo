@@ -30,13 +30,6 @@ I am passionate about **information security**, **quality assurance**, and **API
 - Automation: **Bash**, **Python**, API scripting
 - Security Practices: **OWASP Top 10**, **JWT Security**, **OAuth2**, **API Hardening**
 
-## 🖥️ Languages I Use the Most
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yenarievilo&langs_count=10&layout=compact)
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yenarievilo&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=radical)
 
 ## 📬 Get in Touch:
 - **LinkedIn**: [linkedin.com/in/jenarievilo](https://linkedin.com/in/jenarievilo)
