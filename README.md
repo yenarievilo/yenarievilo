@@ -5,14 +5,14 @@
 
 ---
 
-## 🎓 Education
+##  Education
 - **Associate's Degree** in **Systems Analysis & Development**
 - **Postgraduate Specialization** in **Forensic Computing**
 - **EF SET English Certificate** — C1 Advanced
 
 ---
 
-## 🖥️ Experience & Background
+##  Experience & Background
 - Infrastructure support: **CentOS / Oracle Linux**, **Firewall**, **VPN**, **DNS**, **FTP**, **PostgreSQL**, **Oracle DB**
 - **API integrations** and security testing (REST APIs, OAuth2, JWT, OWASP Top 10)
 - Process automation with **Bash** and **Python**
@@ -21,7 +21,7 @@
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 - Web and API security testing (**Burp Suite**, **OWASP ZAP**, **Postman**)
 - Business logic vulnerability research
 - CTF challenges 
@@ -29,5 +29,5 @@
 
 ---
 
-## 🤝 Get in Touch
+##  Get in Touch
 - **LinkedIn**: [linkedin.com/in/jenarievilo](https://linkedin.com/in/jenarievilo)
