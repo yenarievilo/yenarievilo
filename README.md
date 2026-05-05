@@ -24,7 +24,8 @@
 ## 🎯 Current Focus
 - Web and API security testing (**Burp Suite**, **OWASP ZAP**, **Postman**)
 - Business logic vulnerability research
-- CTF challenges — [CS50's Introduction to Cybersecurity](https://github.com/yenarievilo/CS50-s-Introduction-to-Cybersecurity)
+- CTF challenges 
+- [CS50's Introduction to Cybersecurity](https://github.com/yenarievilo/CS50-s-Introduction-to-Cybersecurity)
 
 ---
 
