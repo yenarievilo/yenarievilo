@@ -1,37 +1,32 @@
 # Hello, I'm Jeniffer Oliveira!
+**Support Engineer | Cybersecurity Analyst | Digital Forensics**
 
- **QA Analyst | API Tester | Cybersecurity Enthusiast**
-
-I am passionate about information security, software quality, and system reliability. With 5 years of experience in technical support, I have worked with infrastructure troubleshooting, integrations, and complex technical environments.
-
-Currently focused on developing skills in cybersecurity, security testing, and digital forensics, building practical experience through labs, projects, and continuous learning.
-
+6 years in technical support and infrastructure, with hands-on experience in server administration, API integrations, firewall and VPN configuration, and security testing. Forensic Computing specialist. Active in bug bounty programs and CTF challenges.
 
 ---
 
-##  Education
--  **Associate's Degree** in **System Analysis & Development**
--  **Specialization** in **Forensic Computing**
+## 🎓 Education
+- **Associate's Degree** in **Systems Analysis & Development**
+- **Postgraduate Specialization** in **Forensic Computing**
+- **EF SET English Certificate** — C1 Advanced
 
 ---
 
-##  What I'm Learning
--  **Secure API testing** following best security and quality practices
--  **Authentication & Authorization** in APIs (OAuth, JWT)
--  **Protection against vulnerabilities** (SQL Injection, XSS, CSRF, etc.)
--  **API functional and security testing automation** using:
-  - **Postman**, **Insomnia**, **Newman**, **Burp Suite**, **OWASP ZAP**
-- **Process automation** with **Bash** and **Python**
+## 🖥️ Experience & Background
+- Infrastructure support: **CentOS / Oracle Linux**, **Firewall**, **VPN**, **DNS**, **FTP**, **PostgreSQL**, **Oracle DB**
+- **API integrations** and security testing (REST APIs, OAuth2, JWT, OWASP Top 10)
+- Process automation with **Bash** and **Python**
+- Active bug bounty hunter on **HackerOne** — Shopify program
+- Digital forensics background with hands-on experience using forensic analysis tools
 
 ---
 
-##  Skills
-###  **Quality Assurance & Security Testing**
-- API Testing (Functional + Security)
-- Tools: **Postman**, **Insomnia**, **Newman**, **Burp Suite**, **OWASP ZAP**
-- Automation: **Bash**, **Python**, API scripting
-- Security Practices: **OWASP Top 10**, **JWT Security**, **OAuth2**, **API Hardening**
+## 🎯 Current Focus
+- Web and API security testing (**Burp Suite**, **OWASP ZAP**, **Postman**)
+- Business logic vulnerability research
+- CTF challenges — [CS50's Introduction to Cybersecurity](https://github.com/yenarievilo/CS50-s-Introduction-to-Cybersecurity)
 
+---
 
-##  Get in Touch:
+## 🤝 Get in Touch
 - **LinkedIn**: [linkedin.com/in/jenarievilo](https://linkedin.com/in/jenarievilo)
